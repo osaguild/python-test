@@ -1,6 +1,7 @@
 ./natureremo/data
 ./jsonformat/data/shop_format.json
 ./jsonformat/data/shop_jsonl.json
+./shell/data/output.txt
 ### IntelliJ IDEA ###
 .idea
 *.iws
