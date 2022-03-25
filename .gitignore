@@ -1,7 +1,7 @@
-./natureremo/data
-./jsonformat/data/shop_format.json
-./jsonformat/data/shop_jsonl.json
-./shell/data/output.txt
+jsonformat/data/shop_jsonl.json
+jsonformat/data/shop_format.json
+natureremo/data
+shell/data/output.txt
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -10,3 +10,4 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.DS_Store
